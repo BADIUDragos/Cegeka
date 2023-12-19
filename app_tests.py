@@ -1,5 +1,5 @@
 import pytest
-from app import app  # Corrected import statement
+from app import app
 
 
 # normally I would organize tests better but here we just have a quick application to demo
